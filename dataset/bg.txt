@@ -1,0 +1,3 @@
+negatives/img1.jpg
+negatives/img2.jpg
+negatives/img3.jpg
